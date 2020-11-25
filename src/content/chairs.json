@@ -1,0 +1,33 @@
+{
+    "chairs": 
+    [
+        {
+            "name": "Elite Series",
+            "slug": "elite-series"
+        },
+        {
+            "name": "Racing Series",
+            "slug": "racing-series"
+        },      
+        {
+            "name": "Gaming Series",
+            "slug": "gaming-series"
+        },
+        {
+            "name": "Scuderia",
+            "slug": "scuderia"
+        },
+        {
+            "name": "Armeria",
+            "slug": "armeria"
+        },
+        {
+            "name": "Cavalleria",
+            "slug": "cavalleria"
+        },
+        {
+            "name": "Office Series",
+            "slug": "office-series"
+        }
+    ]
+}

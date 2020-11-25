@@ -1,0 +1,17 @@
+{
+    "hardwares": 
+    [
+        {
+            "name": "Gabinetes",
+            "slug": "gabinetes"
+        },
+        {
+            "name": "Cooler",
+            "slug": "coolers"
+        },        
+        {
+            "name": "Acessórios",
+            "slug": "acessorios"
+        }
+    ]
+  }

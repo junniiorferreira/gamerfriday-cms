@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "name": "Gaming Series",
+      "slug": "gaming-series"
+    },
+    {
+      "name": "Racing Series",
+      "slug": "racing-series"
+    },
+    {
+      "name": "Office Series",
+      "slug": "office-series"
+    },
+    {
+      "name": "Elite Series",
+      "slug": "elite-series"
+    },
+    {
+      "name": "Acessórios",
+      "slug": "acessorios"
+    },
+    {
+      "name": "Gabinetes",
+      "slug": "gabinetes"
+    },
+    {
+      "name": "Hardware",
+      "slug": "hardware"
+    },
+    {
+      "name": "Fontes e Fans",
+      "slug": "fan"
+    },
+    {
+      "name": "Scuderia",
+      "slug": "scuderia"
+    },
+    {
+      "name": "Cavalleria",
+      "slug": "cavalleria"
+    },
+    {
+      "name": "Armeria",
+      "slug": "armeria"
+    },
+    {
+      "name": "Racing",
+      "slug": "racing"
+    }
+  ]
+}

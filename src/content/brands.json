@@ -1,0 +1,16 @@
+{
+  "brands": [
+    {
+      "name": "DT3 Sports",
+      "slug": "sports"
+    },
+    {
+      "name": "DT3 Office",
+      "slug": "office"
+    },
+    {
+      "name": "DT3 Racing",
+      "slug": "racing"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+image: node:lts-alpine
+
+pipelines:
+  custom:
+    init:
+      - step:
+          caches:
+            - node
+          script:
+            - apk update
+            - apk add curl
+            - apk add bash
+            - apk add git
+            - curl https://raw.githubusercontent.com/git-ftp/git-ftp/master/git-ftp > /bin/git-ftp
+            - chmod 755 /bin/git-ftp
+            - npm install -g @vue/cli
+            - npm install
+            - npm run build
+            - git config git-ftp.syncroot dist
+            - git ftp init -u "$FTP_USERNAME" -p "$FTP_PASSWORD" ftp.dt3.com.br/diadoconsumidor.dt3.com.br
+    deploy:
+      - step:
+          caches:
+            - node
+          script:
+            - apk update
+            - apk add curl
+            - apk add bash
+            - apk add git
+            - curl https://raw.githubusercontent.com/git-ftp/git-ftp/master/git-ftp > /bin/git-ftp
+            - chmod 755 /bin/git-ftp
+            - npm install -g @vue/cli
+            - npm install
+            - npm run build
+            - git-ftp push -u "$FTP_USERNAME" -p "$FTP_PASSWORD" ftp.dt3.com.br/diadoconsumidor.dt3.com.br --syncroot dist/ --all --force
+  branches:
+    master:
+    - step:
+        name: Deploy production
+        deployment: production
+        caches:
+          - node
+        script:
+          - apk update
+          - apk add curl
+          - apk add bash
+          - apk add git
+          - curl https://raw.githubusercontent.com/git-ftp/git-ftp/master/git-ftp > /bin/git-ftp
+          - chmod 755 /bin/git-ftp
+          - npm install -g @vue/cli
+          - npm install
+          - npm run build
+          - git-ftp push -u "$FTP_USERNAME" -p "$FTP_PASSWORD" ftp.dt3.com.br/diadoconsumidor.dt3.com.br --syncroot dist/ --all --force
+            

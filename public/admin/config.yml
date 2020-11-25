@@ -1,0 +1,62 @@
+backend:
+  name: "bitbucket"
+  repo: "infochd/black_friday"
+  branch: "master"
+  auth_type: "implicit"
+  app_id: "5bjKjfFUQpBkJnbQza"
+media_folder: "public/uploads/images"
+public_folder: "/uploads/images"
+collections:
+  - name: "conteudo"
+    label: "Conteúdo"
+    files:
+      - name: "products"
+        label: "Produtos"
+        file: "src/content/products.json"
+        fields:
+          - label: "Lista de Produtos"
+            name: "products"
+            widget: "list"
+            fields: 
+              - { name: "name",              widget: "string",   label: "Nome" }
+              - { name: "slug",              widget: "string",   label: "Slug" }
+              - { name: "regular_price",     widget: "number",   label: "Preço",             valueType: "float" }
+              - { name: "sale_price",        widget: "number",   label: "Preço Promocional", valueType: "float" }
+              - { name: "discount",          widget: "number",   label: "Desconto (%)",      valueType: "int" }
+              - { name: "sale_initial_date", widget: "datetime", label: "Início da Oferta",  format:  'YYYY-MM-DD HH:mm:ss', dateFormat: 'DD/MM/YYYY', timeFormat: 'HH:mm:ss' }
+              - { name: "sale_final_date",   widget: "datetime", label: "Termino da Oferta", format:  'YYYY-MM-DD HH:mm:ss', dateFormat: 'DD/MM/YYYY', timeFormat: 'HH:mm:ss' }
+              - { name: "image_url",         widget: "string",   label: "URL da Imagem do Produto" }
+              - { name: "link",              widget: "string",   label: "Link do Produto" }
+              - name: "category"
+                label: "Categoria"
+                widget: "object"
+                fields:
+                  - { name: "name", widget: "string", label: "Nome" }
+                  - { name: "slug", widget: "string", label: "Slug" }
+              - name: "brand"
+                label: "Marca"
+                widget: "object"
+                fields:
+                  - { name: "name", widget: "string", label: "Nome" }
+                  - { name: "slug", widget: "string", label: "Slug" }
+      - name: "categories"
+        label: "Categorias"
+        file: "src/content/categories.json"
+        fields:
+          - label: "Lista de Categorias"
+            name: "categories"
+            widget: "list"
+            fields: 
+              - { name: "name", widget: "string", label: "Nome" }
+              - { name: "slug", widget: "string", label: "Slug" }
+      - name: "brands"
+        label: "Marcas"
+        file: "src/content/brands.json"
+        fields:
+          - label: "Lista de Marcas"
+            name: "brands"
+            widget: "list"
+            fields: 
+              - { name: "name", widget: "string", label: "Nome" }
+              - { name: "slug", widget: "string", label: "Slug" }
+            

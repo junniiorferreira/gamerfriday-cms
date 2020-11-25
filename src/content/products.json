@@ -1,0 +1,916 @@
+{
+    "products": [
+        {
+            "name": "Hyperstone",
+            "slug": "suporte-de-vga-rgb-hyperstone",
+            "link": "https://www.dt3sports.com.br/loja/hardware/suporte-de-vga-rgb-hyperstone/?cupom=consumidordt3",
+            "category": {
+                "name": "Hardware",
+                "slug": "hardware"
+            },
+            "image_url": "./img/products/suporte-de-vga-rgb-hyperstone.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 139.9,
+            "sale_price": 109.40
+        },
+        {
+            "name": "Wolf120",
+            "slug": "cooler-de-processador-wolf120",
+            "link": "https://www.dt3sports.com.br/loja/hardware/cooler-de-processador-wolf120/?cupom=consumidordt3",
+            "category": {
+                "name": "Hardware",
+                "slug": "hardware"
+            },
+            "image_url": "./img/products/cooler-de-processador-wolf120.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 199.9,
+            "sale_price": 156.32
+        },
+        {
+            "name": "Royce Tecido",
+            "slug": "cadeira-gamer-dt3sports-royce-tecido",
+            "link": "https://www.dt3sports.com.br/loja/elite-series/cadeira-gamer-dt3sports-royce-tecido/?cupom=consumidordt3",
+            "category": {
+                "name": "Elite Series",
+                "slug": "elite-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-royce-tecido.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 2199.9,
+            "sale_price": 1720.32
+        },
+        {
+            "name": "Apollo",
+            "slug": "apollo-2",
+            "link": "https://www.dt3sports.com.br/loja/gabinetes/apollo-2/?cupom=consumidordt3",
+            "category": {
+                "name": "Gabinetes",
+                "slug": "gabinetes"
+            },
+            "image_url": "./img/products/apollo-2.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 589.9,
+            "sale_price": 461.30
+        },
+        {
+            "name": "Andromeda",
+            "slug": "gabinete-gamer-dt3sports-andromeda",
+            "link": "https://www.dt3sports.com.br/loja/gabinetes/gabinete-gamer-dt3sports-andromeda/?cupom=consumidordt3",
+            "category": {
+                "name": "Gabinetes",
+                "slug": "gabinetes"
+            },
+            "image_url": "./img/products/gabinete-gamer-dt3sports-andromeda.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 499.9,
+            "sale_price": 390.92
+        },
+        {
+            "name": "ZX120 Trio",
+            "slug": "zx120-trio",
+            "link": "https://www.dt3sports.com.br/loja/hardware/zx120-trio/?cupom=consumidordt3",
+            "category": {
+                "name": "Fontes e Fans",
+                "slug": "fan"
+            },
+            "image_url": "./img/products/zx120-trio.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 249.9,
+            "sale_price": 195.42
+        },
+        {
+            "name": "Hyperspace + 2 Kit ZX120",
+            "slug": "gabinete-gamer-dt3sports-hyperspace-2-kit-zx120",
+            "link": "https://www.dt3sports.com.br/loja/gabinetes/gabinete-gamer-dt3sports-hyperspace-2-kit-zx120/?cupom=consumidordt3",
+            "category": {
+                "name": "Gabinetes",
+                "slug": "gabinetes"
+            },
+            "image_url": "./img/products/gabinete-gamer-dt3sports-hyperspace-2-kit-zx120.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1059.9,
+            "sale_price": 828.84
+        },
+        {
+            "name": "Kit Almofadas XL Elite Series Suede",
+            "slug": "almofada-lombar-elite-series-rhino-suede",
+            "link": "https://www.dt3sports.com.br/loja/acessorios/almofada-lombar-elite-series-rhino-suede/?cupom=consumidordt3",
+            "category": {
+                "name": "Acessórios",
+                "slug": "acessorios"
+            },
+            "image_url": "./img/products/almofada-lombar-elite-series-rhino-suede.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 199.9,
+            "sale_price": 156.32
+        },
+        {
+            "name": "Kit Almofadas XL Elite Series PU",
+            "slug": "almofada-lombar-elite-series-rhino-pu",
+            "link": "https://www.dt3sports.com.br/loja/acessorios/almofada-lombar-elite-series-rhino-pu/?cupom=consumidordt3",
+            "category": {
+                "name": "Acessórios",
+                "slug": "acessorios"
+            },
+            "image_url": "./img/products/almofada-lombar-elite-series-rhino-pu.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 199.9,
+            "sale_price": 156.32
+        },
+        {
+            "name": "Hyperspace + Kit ZX120",
+            "slug": "gabinete-gamer-dt3sports-hyperspace-kit-zx120-2",
+            "link": "https://www.dt3sports.com.br/loja/gabinetes/gabinete-gamer-dt3sports-hyperspace-kit-zx120-2/?cupom=consumidordt3",
+            "category": {
+                "name": "Gabinetes",
+                "slug": "gabinetes"
+            },
+            "image_url": "./img/products/gabinete-gamer-dt3sports-hyperspace-kit-zx120-2.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 899.9,
+            "sale_price": 703.72
+        },
+        {
+            "name": "Estelar Pixel",
+            "slug": "cadeira-gamer-dt3sports-rgb-infantil-estelar-pixel",
+            "link": "https://www.dt3sports.com.br/loja/racing-series/cadeira-gamer-dt3sports-rgb-infantil-estelar-pixel/?cupom=consumidordt3",
+            "category": {
+                "name": "Racing Series",
+                "slug": "racing-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-rgb-infantil-estelar-pixel.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1099.9,
+            "sale_price": 860.12
+        },
+        {
+            "name": "Estelar",
+            "slug": "cadeira-gamer-dt3sports-rgb-estelar",
+            "link": "https://www.dt3sports.com.br/loja/racing-series/cadeira-gamer-dt3sports-rgb-estelar/?cupom=consumidordt3",
+            "category": {
+                "name": "Racing Series",
+                "slug": "racing-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-rgb-estelar.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1199.9,
+            "sale_price": 938.32
+        },
+        {
+            "name": "Hyperspace",
+            "slug": "gabinete-gamer-dt3sports-hyperspace",
+            "link": "https://www.dt3sports.com.br/loja/gabinetes/gabinete-gamer-dt3sports-hyperspace/?cupom=consumidordt3",
+            "category": {
+                "name": "Gabinetes",
+                "slug": "gabinetes"
+            },
+            "image_url": "./img/products/gabinete-gamer-dt3sports-hyperspace.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 699.9,
+            "sale_price": 547.32
+        },
+        {
+            "name": "3 Kit Fan ZX120",
+            "slug": "zx120-combo-2-9-fans",
+            "link": "https://www.dt3sports.com.br/loja/fan/zx120-combo-2-9-fans/?cupom=consumidordt3",
+            "category": {
+                "name": "Fontes e Fans",
+                "slug": "fan"
+            },
+            "image_url": "./img/products/zx120-combo-2-9-fans.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 749.7,
+            "sale_price": 586.26
+        },
+        {
+            "name": "2 Kit Fan ZX120",
+            "slug": "zx120-6-fans",
+            "link": "https://www.dt3sports.com.br/loja/fan/zx120-6-fans/?cupom=consumidordt3",
+            "category": {
+                "name": "Fontes e Fans",
+                "slug": "fan"
+            },
+            "image_url": "./img/products/zx120-6-fans.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 499.8,
+            "sale_price": 390.85
+        },
+        {
+            "name": "Infinity",
+            "slug": "mesa-gamer-dt3sports-infinity",
+            "link": "https://www.dt3sports.com.br/loja/gaming-desk/mesa-gamer-dt3sports-infinity/?cupom=consumidordt3",
+            "category": {
+                "name": "Gaming Desk",
+                "slug": "gaming-desk"
+            },
+            "image_url": "./img/products/mesa-gamer-dt3sports-infinity.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 899.9,
+            "sale_price": 703.72
+        },
+        {
+            "name": "Jaguar",
+            "slug": "cadeira-gamer-dt3sports-jaguar",
+            "link": "https://www.dt3sports.com.br/loja/racing-series/cadeira-gamer-dt3sports-jaguar/?cupom=consumidordt3",
+            "category": {
+                "name": "Racing Series",
+                "slug": "racing-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-jaguar.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 999.9,
+            "sale_price": 781.92
+        },
+        {
+            "name": "GTZ Tecido",
+            "slug": "cadeira-gamer-dt3sports-gtz",
+            "link": "https://www.dt3sports.com.br/loja/gaming-series/cadeira-gamer-dt3sports-gtz/?cupom=consumidordt3",
+            "category": {
+                "name": "Gaming Series",
+                "slug": "gaming-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-gtz.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 949.9,
+            "sale_price": 742.82
+        },
+        {
+            "name": "Lander",
+            "slug": "gabinete-lander",
+            "link": "https://www.dt3sports.com.br/loja/hardware/gabinete-lander/?cupom=consumidordt3",
+            "category": {
+                "name": "Gabinetes",
+                "slug": "gabinetes"
+            },
+            "image_url": "./img/products/gabinete-lander.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 199.9,
+            "sale_price": 156.32
+        },
+        {
+            "name": "Gamma Office",
+            "slug": "cadeira-de-escritorio-dt3-gamma-office",
+            "link": "https://www.dt3sports.com.br/loja/office-series/cadeira-de-escritorio-dt3-gamma-office/?cupom=consumidordt3",
+            "category": {
+                "name": "Office Series",
+                "slug": "office-series"
+            },
+            "image_url": "./img/products/cadeira-de-escritorio-dt3-gamma-office.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1229.9,
+            "sale_price": 961.78
+        },
+        {
+            "name": "GT",
+            "slug": "cadeira-gamer-dt3sports-gt",
+            "link": "https://www.dt3sports.com.br/loja/gaming-series/cadeira-gamer-dt3sports-gt/?cupom=consumidordt3",
+            "category": {
+                "name": "Gaming Series",
+                "slug": "gaming-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-gt.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 659.9,
+            "sale_price": 516.04
+        },
+        {
+            "name": "GTI",
+            "slug": "cadeira-gamer-dt3sports-gti",
+            "link": "https://www.dt3sports.com.br/loja/gaming-series/cadeira-gamer-dt3sports-gti/?cupom=consumidordt3",
+            "category": {
+                "name": "Gaming Series",
+                "slug": "gaming-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-gti.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 899.9,
+            "sale_price": 703.72
+        },
+        {
+            "name": "GTO Office",
+            "slug": "cadeira-de-escritorio-dt3-gto-office",
+            "link": "https://www.dt3sports.com.br/loja/office-series/cadeira-de-escritorio-dt3-gto-office/?cupom=consumidordt3",
+            "category": {
+                "name": "Office Series",
+                "slug": "office-series"
+            },
+            "image_url": "./img/products/cadeira-de-escritorio-dt3-gto-office.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 799.9,
+            "sale_price": 625.52
+        },
+        {
+            "name": "GTS",
+            "slug": "cadeira-gamer-dt3sports-gts",
+            "link": "https://www.dt3sports.com.br/loja/gaming-series/cadeira-gamer-dt3sports-gts/?cupom=consumidordt3",
+            "category": {
+                "name": "Gaming Series",
+                "slug": "gaming-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-gts.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 799.9,
+            "sale_price": 625.52
+        },
+        {
+            "name": "GTS Special Edition Office",
+            "slug": "cadeira-de-escritorio-dt3-gts-special-edition-office",
+            "link": "https://www.dt3sports.com.br/loja/office-series/cadeira-de-escritorio-dt3-gts-special-edition-office/?cupom=consumidordt3",
+            "category": {
+                "name": "Office Series",
+                "slug": "office-series"
+            },
+            "image_url": "./img/products/cadeira-de-escritorio-dt3-gts-special-edition-office.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 799.9,
+            "sale_price": 625.52
+        },
+        {
+            "name": "GTX",
+            "slug": "cadeira-gamer-dt3sports-gtx",
+            "link": "https://www.dt3sports.com.br/loja/gaming-series/cadeira-gamer-dt3sports-gtx/?cupom=consumidordt3",
+            "category": {
+                "name": "Gaming Series",
+                "slug": "gaming-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-gtx.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 799.9,
+            "sale_price": 625.52
+        },
+        {
+            "name": "Elise Flamengo",
+            "slug": "cadeira-gamer-dt3sports-elise-flamengo",
+            "link": "https://www.dt3sports.com.br/loja/racing-series/cadeira-gamer-dt3sports-elise-flamengo/?cupom=consumidordt3",
+            "category": {
+                "name": "Flamengo",
+                "slug": "flamengo"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-elise-flamengo.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1199.9,
+            "sale_price": 938.32
+        },
+        {
+            "name": "Atomo",
+            "slug": "gabinete-gamer-dt3sports-atomo",
+            "link": "https://www.dt3sports.com.br/loja/gabinetes/gabinete-gamer-dt3sports-atomo/?cupom=consumidordt3",
+            "category": {
+                "name": "Gabinetes",
+                "slug": "gabinetes"
+            },
+            "image_url": "./img/products/gabinete-gamer-dt3sports-atomo.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 229.9,
+            "sale_price": 179.78
+        },
+        {
+            "name": "BX700",
+            "slug": "fonte-de-alimentacao-psu-dt3sports-bx700-80plus-bronze",
+            "link": "https://www.dt3sports.com.br/loja/fan/fonte-de-alimentacao-psu-dt3sports-bx700-80plus-bronze/?cupom=consumidordt3",
+            "category": {
+                "name": "Fontes e Fans",
+                "slug": "fan"
+            },
+            "image_url": "./img/products/fonte-de-alimentacao-psu-dt3sports-bx700-80plus-bronze.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 429.9,
+            "sale_price": 336.18
+        },
+        {
+            "name": "Ravena",
+            "slug": "cadeira-gamer-dt3sports-ravena",
+            "link": "https://www.dt3sports.com.br/loja/racing-series/cadeira-gamer-dt3sports-ravena/?cupom=consumidordt3",
+            "category": {
+                "name": "Racing Series",
+                "slug": "racing-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-ravena.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1199.9,
+            "sale_price": 938.32
+        },
+        {
+            "name": "Rhino",
+            "slug": "cadeira-gamer-dt3sports-rhino",
+            "link": "https://www.dt3sports.com.br/loja/elite-series/cadeira-gamer-dt3sports-rhino/?cupom=consumidordt3",
+            "category": {
+                "name": "Elite Series",
+                "slug": "elite-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-rhino.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 2099.9,
+            "sale_price": 1642.12
+        },
+        {
+            "name": "Mizano Tecido",
+            "slug": "cadeira-gamer-dt3sports-mizano-tecido",
+            "link": "https://www.dt3sports.com.br/loja/racing-series/cadeira-gamer-dt3sports-mizano-tecido/?cupom=consumidordt3",
+            "category": {
+                "name": "Racing Series",
+                "slug": "racing-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-mizano-tecido.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1199.9,
+            "sale_price": 938.32
+        },
+        {
+            "name": "Prime EVO",
+            "slug": "cadeira-gamer-dt3sports-prime-evo",
+            "link": "https://www.dt3sports.com.br/loja/elite-series/cadeira-gamer-dt3sports-prime-evo/?cupom=consumidordt3",
+            "category": {
+                "name": "Elite Series",
+                "slug": "elite-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-prime-evo.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1899.9,
+            "sale_price": 1485.72
+        },
+        {
+            "name": "Orion",
+            "slug": "cadeira-gamer-dt3sports-orion",
+            "link": "https://www.dt3sports.com.br/loja/elite-series/cadeira-gamer-dt3sports-orion/?cupom=consumidordt3",
+            "category": {
+                "name": "Elite Series",
+                "slug": "elite-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-orion.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1899.9,
+            "sale_price": 1485.72
+        },
+        {
+            "name": "Módena",
+            "slug": "cadeira-gamer-dt3sports-modena",
+            "link": "https://www.dt3sports.com.br/loja/racing-series/cadeira-gamer-dt3sports-modena/?cupom=consumidordt3",
+            "category": {
+                "name": "Racing Series",
+                "slug": "racing-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-modena.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1199.9,
+            "sale_price": 938.32
+        },
+        {
+            "name": "Elise",
+            "slug": "cadeira-gamer-dt3sports-elise",
+            "link": "https://www.dt3sports.com.br/loja/racing-series/cadeira-gamer-dt3sports-elise/?cupom=consumidordt3",
+            "category": {
+                "name": "Racing Series",
+                "slug": "racing-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-elise.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1059.9,
+            "sale_price": 828.84
+        },
+        {
+            "name": "Edge Hyve",
+            "slug": "gabinete-gamer-dt3sports-edge-hyve",
+            "link": "https://www.dt3sports.com.br/loja/gabinetes/gabinete-gamer-dt3sports-edge-hyve/?cupom=consumidordt3",
+            "category": {
+                "name": "Gabinetes",
+                "slug": "gabinetes"
+            },
+            "image_url": "./img/products/gabinete-gamer-dt3sports-edge-hyve.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 229.9,
+            "sale_price": 179.78
+        },
+        {
+            "name": "Kit Almofadas Elite Series",
+            "slug": "kit-c-2-almofadas",
+            "link": "https://www.dt3sports.com.br/loja/acessorios/kit-c-2-almofadas/?cupom=consumidordt3",
+            "category": {
+                "name": "Acessórios",
+                "slug": "acessorios"
+            },
+            "image_url": "./img/products/kit-c-2-almofadas.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 149.9,
+            "sale_price": 117.22
+        },
+        {
+            "name": "Ônix Diamond",
+            "slug": "cadeira-gamer-dt3sports-onix-diamond",
+            "link": "https://www.dt3sports.com.br/loja/elite-series/cadeira-gamer-dt3sports-onix-diamond/?cupom=consumidordt3",
+            "category": {
+                "name": "Elite Series",
+                "slug": "elite-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-onix-diamond.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1899.9,
+            "sale_price": 1485.72
+        },
+        {
+            "name": "Orion Flamengo",
+            "slug": "cadeira-gamer-dt3sports-orion-flamengo",
+            "link": "https://www.dt3sports.com.br/loja/elite-series/cadeira-gamer-dt3sports-orion-flamengo/?cupom=consumidordt3",
+            "category": {
+                "name": "Elite Series",
+                "slug": "elite-series"
+            },
+            "image_url": "./img/products/cadeira-gamer-dt3sports-orion-flamengo.jpg",
+            "brand": {
+                "name": "DT3Sports",
+                "slug": "sports"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1999.9,
+            "sale_price": 1563.92
+        },
+        {
+            "name": "Diana",
+            "slug": "cadeira-de-escritorio-diana",
+            "link": "https://www.dt3office.com.br/loja/cavalleria/cadeira-de-escritorio-diana/?cupom=consumidordt3",
+            "category": {
+                "name": "Categoria Cavalleria",
+                "slug": "cavalleria"
+            },
+            "image_url": "./img/products/cadeira-de-escritorio-diana.jpg",
+            "brand": {
+                "name": "DT3Office",
+                "slug": "office"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 979.9,
+            "sale_price": 766.28
+        },
+        {
+            "name": "Helora",
+            "slug": "cadeira-de-escritorio-helora",
+            "link": "https://www.dt3office.com.br/loja/cavalleria/cadeira-de-escritorio-helora/?cupom=consumidordt3",
+            "category": {
+                "name": "Categoria Cavalleria",
+                "slug": "cavalleria"
+            },
+            "image_url": "./img/products/cadeira-de-escritorio-helora.jpg",
+            "brand": {
+                "name": "DT3Office",
+                "slug": "office"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1799.9,
+            "sale_price": 1407.52
+        },
+        {
+            "name": "Maya",
+            "slug": "cadeira-de-escritorio-maya",
+            "link": "https://www.dt3office.com.br/loja/armeria/cadeira-de-escritorio-maya/?cupom=consumidordt3",
+            "category": {
+                "name": "Categoria Armeria",
+                "slug": "armeria"
+            },
+            "image_url": "./img/products/cadeira-de-escritorio-maya.jpg",
+            "brand": {
+                "name": "DT3Office",
+                "slug": "office"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 729.9,
+            "sale_price": 570.78
+        },
+        {
+            "name": "Moira",
+            "slug": "cadeira-de-escritorio-moira",
+            "link": "https://www.dt3office.com.br/loja/cavalleria/cadeira-de-escritorio-moira/?cupom=consumidordt3",
+            "category": {
+                "name": "Categoria Cavalleria",
+                "slug": "cavalleria"
+            },
+            "image_url": "./img/products/cadeira-de-escritorio-moira.jpg",
+            "brand": {
+                "name": "DT3Office",
+                "slug": "office"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1199.9,
+            "sale_price": 938.32
+        },
+        {
+            "name": "Zephyr",
+            "slug": "zephyr",
+            "link": "https://www.dt3office.com.br/loja/scuderia/zephyr/?cupom=consumidordt3",
+            "category": {
+                "name": "Categoria Scuderia",
+                "slug": "scuderia"
+            },
+            "image_url": "./img/products/zephyr.jpg",
+            "brand": {
+                "name": "DT3Office",
+                "slug": "office"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 2299.9,
+            "sale_price": 1798.52
+        },
+        {
+            "name": "SWI Direito",
+            "slug": "banco-de-carro-swi-direito",
+            "link": "https://www.dt3racing.com.br/loja/racing/banco-de-carro-swi-direito/?cupom=consumidordt3",
+            "category": {
+                "name": "DT3Racing",
+                "slug": "racing"
+            },
+            "image_url": "./img/products/banco-de-carro-swi-direito.jpg",
+            "brand": {
+                "name": "DT3Racing",
+                "slug": "racing"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1614.92,
+            "sale_price": 1262.87
+        },
+        {
+            "name": "SWI Esquerdo",
+            "slug": "banco-de-carro-swi-esquerdo",
+            "link": "https://www.dt3racing.com.br/loja/racing/banco-de-carro-swi-esquerdo/?cupom=consumidordt3",
+            "category": {
+                "name": "DT3Racing",
+                "slug": "racing"
+            },
+            "image_url": "./img/products/banco-de-carro-swi-esquerdo.jpg",
+            "brand": {
+                "name": "DT3Racing",
+                "slug": "racing"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 1614.92,
+            "sale_price": 1262.87
+        },
+        {
+            "name": "EVO",
+            "slug": "banco-de-carro-evo",
+            "link": "https://www.dt3racing.com.br/loja/racing/banco-de-carro-evo/?cupom=consumidordt3",
+            "category": {
+                "name": "DT3Racing",
+                "slug": "racing"
+            },
+            "image_url": "./img/products/banco-de-carro-evo.jpg",
+            "brand": {
+                "name": "DT3Racing",
+                "slug": "racing"
+            },
+            "sale_initial_date": "2020-03-13 00:00:00",
+            "sale_final_date": "2020-03-13 23:59:59",
+            "discount": 8,
+            "regular_price": 2299.9,
+            "sale_price": 1798.52
+        }
+    ]
+}
